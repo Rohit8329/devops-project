@@ -33,6 +33,11 @@ devops-project/
 └── README.md
 
 
+![AWS](https://img.shields.io/badge/AWS-EKS-orange)
+![CI/CD](https://img.shields.io/badge/CI/CD-Jenkins-blue)
+![GitOps](https://img.shields.io/badge/GitOps-ArgoCD-red)
+
+
 # 🚀 Automated GitOps CI/CD Pipeline on AWS EKS
 
 ## 📌 Overview
