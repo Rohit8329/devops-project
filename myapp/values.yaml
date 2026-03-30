@@ -1,0 +1,9 @@
+replicaCount: 2
+
+image:
+  repository: YOUR_ECR_URL
+  tag: latest
+
+service:
+  type: LoadBalancer
+  port: 80
